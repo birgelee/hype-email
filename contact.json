@@ -1,0 +1,12 @@
+{
+    "ContactListName": "HYPEContacts",
+    "EmailAddress": "henrybirgelee@gmail.com",
+    "UnsubscribeAll": false,
+    "TopicPreferences": [
+        {
+            "TopicName": "News",
+            "SubscriptionStatus": "OPT_IN"
+        }
+    ],
+    "AttributesData": "{\"Name\": \"Henry\"}"
+}

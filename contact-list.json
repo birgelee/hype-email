@@ -1,0 +1,12 @@
+{
+    "ContactListName": "HYPEContacts",
+    "Description": "HYPE Contacts",
+    "Topics": [
+     {
+         "TopicName": "News",
+         "DisplayName": "HYPE News",
+         "Description": "Get all the latest news about HYPE Entertainment",
+         "DefaultSubscriptionStatus": "OPT_IN"
+     }
+    ]
+}

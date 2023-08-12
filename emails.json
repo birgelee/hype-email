@@ -1,0 +1,555 @@
+{
+    "Contacts": [
+        {
+            "EmailAddress": "jaii.digital@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:15.805000-04:00"
+        },
+        {
+            "EmailAddress": "lavishcakentertainment@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:17.350000-04:00"
+        },
+        {
+            "EmailAddress": "jamesagandy@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:21.198000-04:00"
+        },
+        {
+            "EmailAddress": "bzruiz3@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:42.329000-04:00"
+        },
+        {
+            "EmailAddress": "ericmacemusic@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:00.247000-04:00"
+        },
+        {
+            "EmailAddress": "iaguilar@oxy.edu",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:33.468000-04:00"
+        },
+        {
+            "EmailAddress": "iamhaydenakins@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:45.510000-04:00"
+        },
+        {
+            "EmailAddress": "williams-crys@hotmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:04.149000-04:00"
+        },
+        {
+            "EmailAddress": "mbhall1107@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:20.101000-04:00"
+        },
+        {
+            "EmailAddress": "n8k24yryjn@privaterelay.appleid.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:24.952000-04:00"
+        },
+        {
+            "EmailAddress": "dullari.ugc@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:28.795000-04:00"
+        },
+        {
+            "EmailAddress": "bevwalkup52@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:37.965000-04:00"
+        },
+        {
+            "EmailAddress": "cs4pq8ky5t@privaterelay.appleid.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:09:16.372000-04:00"
+        },
+        {
+            "EmailAddress": "asya.scott26@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:08.396000-04:00"
+        },
+        {
+            "EmailAddress": "kjjrkjsr@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:39.076000-04:00"
+        },
+        {
+            "EmailAddress": "8hkg8hj7pv@privaterelay.appleid.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:08.158000-04:00"
+        },
+        {
+            "EmailAddress": "jack.schiaffino@icloud.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:15.607000-04:00"
+        },
+        {
+            "EmailAddress": "wavviixfli89mgmt@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:56.765000-04:00"
+        },
+        {
+            "EmailAddress": "6t2nd4jznk@privaterelay.appleid.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:45.915000-04:00"
+        },
+        {
+            "EmailAddress": "diazvargas759130@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:51.156000-04:00"
+        },
+        {
+            "EmailAddress": "usama_usama@icloud.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:09:21.558000-04:00"
+        },
+        {
+            "EmailAddress": "knsdxf7qf9@privaterelay.appleid.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:05:55.922000-04:00"
+        },
+        {
+            "EmailAddress": "veeisgee@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:25.781000-04:00"
+        },
+        {
+            "EmailAddress": "nicholsriche@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:52.073000-04:00"
+        },
+        {
+            "EmailAddress": "ty.da.bob@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:07.359000-04:00"
+        },
+        {
+            "EmailAddress": "paigekyates@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:47.027000-04:00"
+        },
+        {
+            "EmailAddress": "turothebull36@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:55.995000-04:00"
+        },
+        {
+            "EmailAddress": "cnryan23@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:07.309000-04:00"
+        },
+        {
+            "EmailAddress": "ashliferguson7@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:46.674000-04:00"
+        },
+        {
+            "EmailAddress": "2nyvnvxvhx@privaterelay.appleid.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:09:53.301000-04:00"
+        },
+        {
+            "EmailAddress": "nomape2188@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:00.883000-04:00"
+        },
+        {
+            "EmailAddress": "jacobrothenberg123@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:06.604000-04:00"
+        },
+        {
+            "EmailAddress": "guccisauce25@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:32.508000-04:00"
+        },
+        {
+            "EmailAddress": "cheyenne.rogers@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:44.690000-04:00"
+        },
+        {
+            "EmailAddress": "mmupclan@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:47.239000-04:00"
+        },
+        {
+            "EmailAddress": "extraogunnubi@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:09.685000-04:00"
+        },
+        {
+            "EmailAddress": "gavincrowe2102@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:16.372000-04:00"
+        },
+        {
+            "EmailAddress": "aboykin777@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:24.180000-04:00"
+        },
+        {
+            "EmailAddress": "kmacorp@prlee.org",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:29.856000-04:00"
+        },
+        {
+            "EmailAddress": "jazzjamelia@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:31.610000-04:00"
+        },
+        {
+            "EmailAddress": "jbonell9255@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:55.125000-04:00"
+        },
+        {
+            "EmailAddress": "zarreahbrown12@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:08:19.318000-04:00"
+        },
+        {
+            "EmailAddress": "testing@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:09:23.920000-04:00"
+        },
+        {
+            "EmailAddress": "ayeshakr2005@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:05:55.136000-04:00"
+        },
+        {
+            "EmailAddress": "swootymacmusic@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:14.910000-04:00"
+        },
+        {
+            "EmailAddress": "ybmaccashe@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:24.135000-04:00"
+        },
+        {
+            "EmailAddress": "talayia56@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:43.252000-04:00"
+        },
+        {
+            "EmailAddress": "destineyraylene@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:06:54.146000-04:00"
+        },
+        {
+            "EmailAddress": "morrlinds@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:03.667000-04:00"
+        },
+        {
+            "EmailAddress": "mikeguevara80@gmail.com",
+            "TopicPreferences": [
+                {
+                    "TopicName": "News",
+                    "SubscriptionStatus": "OPT_IN"
+                }
+            ],
+            "UnsubscribeAll": false,
+            "LastUpdatedTimestamp": "2023-08-12T01:07:44.740000-04:00"
+        }
+    ],
+    "NextToken": "AYADeBUaoCYwACQHG2dE8j9bJEsAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREF5eUcyRWVBaWpRZ1Y1L0p3SnNwQjBDUUFzMnpIWG1Bc3VjQ256Z1FQbnFkM0FyMFRKSzlISWdzT0d5RU5wR2s2UT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMTo4Mjc1NzgwMzM4Njc6a2V5L2VmYjllMDA2LTFlYjMtNGFkZi05MjJiLWJmODkzYjk0MzhjNwC4AQIBAHjLB4/2FF61wyZF95iFLBZyyHwgT1kWWNscr7BfQ4blRQHxEchhwcxJ6GvwS7K1i+ksAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMXiPgMiTY9TJzpvqXAgEQgDufUAShCuUzWfqJJt6jxb+PotTvar0CJ7R2gsKU32lU6vu/1dIFAeCeagStxcuJWv5B9wsrF2BdsiZdZAIAAAAADAAAEAAAAAAAAAAAAAAAAADqMWrOhaZoFRQmmf0c9Avk/////wAAAAEAAAAAAAAAAAAAAAEAAABxvncnYaKwX8yudW6QQeQxJynjvNTqEAnszN2ZJBh/NVQCNoEcVTKmUuGpyVtPTnr7yhkD7IlX6rpncuiA6jIypwIYl+0J1DQ7rgUpjF8KIElukm0IgI54QP7oj3EWyYntBspRE0l4TmacpSSaTdtcRSP/qNwk+dk+QiwHw0EMb5ovAGcwZQIwNMcyIIWjspADsqoIi8z7sHA9rAZp/OIgYXak2PNU4QMsU6Khy6IXkVUOtM33QMA2AjEAqLQmOtgsTITkUg2Xnquvp0zxL+JRDTvPbu6g62ldySvCiQeklrauOlQvHvyHYO2+"
+}
